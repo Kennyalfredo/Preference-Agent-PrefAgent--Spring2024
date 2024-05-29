@@ -1,0 +1,6 @@
+NOT beef OR NOT wine
+NOT beef OR cake
+fish OR NOT cake
+NOT beef OR ice-cream
+NOT fish OR ice-cream
+fish OR NOT wine

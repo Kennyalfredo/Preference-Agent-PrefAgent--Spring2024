@@ -1,0 +1,4 @@
+beer AND beef, 8
+beef OR beer, 4
+cake AND beef, 2
+ice-cream AND fish, 6

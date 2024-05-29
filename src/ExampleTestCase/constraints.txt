@@ -1,0 +1,2 @@
+NOT wine OR NOT ice-cream
+NOT beef OR NOT wine
